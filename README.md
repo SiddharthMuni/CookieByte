@@ -46,3 +46,5 @@ https://camp-loop-presentation.camp-loop-e398.workers.dev/
 
 ## Links to video and Live cloudflare app
 https://camp-loop-presentation.camp-loop-e398.workers.dev/
+https://youtu.be/-KT-UMXAGIk - PLEASE WATCH THANK YOU : )
+
