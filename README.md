@@ -16,6 +16,12 @@ Camp Loop is a web app built at Firebytes for CodinginColor to boost student eng
 ## How it works 
 <img width="615" height="575" alt="image" src="https://github.com/user-attachments/assets/816a9916-5f30-43ee-9b28-fb4db1314303" />
 
+##Tech Stack
+js
+python
+sql
+
+
 
 
 
@@ -26,8 +32,9 @@ Camp Loop is a web app built at Firebytes for CodinginColor to boost student eng
 - Do weekly survey , get code from email , get points -> used for rewards (incentive)
 - Alumni conversations. -> students can ask questions and alumnis can give their thoughts . 
 - alumni can get volunteer hours from staff ( staff login )
-- Students can gain rewards points from doing surveys, coming to events, and doing tasks
-- They can spend the points and Instructors can ship it to their houses, causing the students to come back due to a reward system
+- Students , aswell as alumni earn points from surveys!
+- For staff login : CodingColor1 
+- Enjoy our web app! And we hope something similar to this will be applied in the future as we believe our project can truly bring change : ) : )
 - 
     
 https://camp-loop-presentation.camp-loop-e398.workers.dev/
